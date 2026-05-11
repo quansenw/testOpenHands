@@ -1,1 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+*.db
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Instance folder
+instance/
+
+# Environment files
+.env
 .env.local
